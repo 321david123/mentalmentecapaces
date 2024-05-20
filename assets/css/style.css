@@ -40,6 +40,11 @@
 #imagen2 {
     display: none;
 }
+#resultMessage {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
 
 body {
   font-family: var(--body-font);
